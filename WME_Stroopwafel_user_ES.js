@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WME Stroopwafel Español
 // @namespace    https://github.com/musa11971
-// @version      1.6
+// @version      1.7
 // @description  Stroopwafel es un script de usuario para el Editor de Mapas de Waze que ayuda a los editores a marcar las áreas como "editadas" basándose en diferentes opciones.
 // @author       musa11971 (Waze: mewsa) - https://github.com/musa11971 enavap (Waze: JanKlaaseen) - https://gist.githubusercontent.com/enavap/
 // @include      /^https:\/\/(www|beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor.*$/
